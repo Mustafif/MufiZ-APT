@@ -1,0 +1,160 @@
+ new Debian package, version 2.0.
+ size 2536602 bytes: control archive=446 bytes.
+     264 bytes,    11 lines      control              
+     115 bytes,     2 lines      md5sums              
+ Package: mufiz
+ Version: 0.6.0
+ License: unknown
+ Vendor: none
+ Architecture: powerpc64le
+ Maintainer: Mustafif0929@gmail.com
+ Installed-Size: 10315
+ Section: default
+ Priority: optional
+ Homepage: http://example.com/no-uri-given
+ Description: The Mufi Programming Language
+
+ new Debian package, version 2.0.
+ size 3730682 bytes: control archive=441 bytes.
+     260 bytes,    11 lines      control              
+     115 bytes,     2 lines      md5sums              
+ Package: mufiz
+ Version: 0.6.0
+ License: unknown
+ Vendor: none
+ Architecture: riscv64
+ Maintainer: Mustafif0929@gmail.com
+ Installed-Size: 84092
+ Section: default
+ Priority: optional
+ Homepage: http://example.com/no-uri-given
+ Description: The Mufi Programming Language
+
+ new Debian package, version 2.0.
+ size 3729562 bytes: control archive=443 bytes.
+     260 bytes,    11 lines      control              
+     115 bytes,     2 lines      md5sums              
+ Package: mufiz
+ Version: 0.6.0
+ License: unknown
+ Vendor: none
+ Architecture: powerpc
+ Maintainer: Mustafif0929@gmail.com
+ Installed-Size: 59543
+ Section: default
+ Priority: optional
+ Homepage: http://example.com/no-uri-given
+ Description: The Mufi Programming Language
+
+ new Debian package, version 2.0.
+ size 2397082 bytes: control archive=440 bytes.
+     257 bytes,    11 lines      control              
+     115 bytes,     2 lines      md5sums              
+ Package: mufiz
+ Version: 0.6.0
+ License: unknown
+ Vendor: none
+ Architecture: amd64
+ Maintainer: Mustafif0929@gmail.com
+ Installed-Size: 9398
+ Section: default
+ Priority: optional
+ Homepage: http://example.com/no-uri-given
+ Description: The Mufi Programming Language
+
+ new Debian package, version 2.0.
+ size 3511262 bytes: control archive=443 bytes.
+     261 bytes,    11 lines      control              
+     115 bytes,     2 lines      md5sums              
+ Package: mufiz
+ Version: 0.6.0
+ License: unknown
+ Vendor: none
+ Architecture: mips64el
+ Maintainer: Mustafif0929@gmail.com
+ Installed-Size: 69094
+ Section: default
+ Priority: optional
+ Homepage: http://example.com/no-uri-given
+ Description: The Mufi Programming Language
+
+ new Debian package, version 2.0.
+ size 2450742 bytes: control archive=439 bytes.
+     257 bytes,    11 lines      control              
+     115 bytes,     2 lines      md5sums              
+ Package: mufiz
+ Version: 0.6.0
+ License: unknown
+ Vendor: none
+ Architecture: arm64
+ Maintainer: Mustafif0929@gmail.com
+ Installed-Size: 9776
+ Section: default
+ Priority: optional
+ Homepage: http://example.com/no-uri-given
+ Description: The Mufi Programming Language
+
+ new Debian package, version 2.0.
+ size 3103100 bytes: control archive=444 bytes.
+     262 bytes,    11 lines      control              
+     115 bytes,     2 lines      md5sums              
+ Package: mufiz
+ Version: 0.6.0
+ License: unknown
+ Vendor: none
+ Architecture: powerpc64
+ Maintainer: Mustafif0929@gmail.com
+ Installed-Size: 53795
+ Section: default
+ Priority: optional
+ Homepage: http://example.com/no-uri-given
+ Description: The Mufi Programming Language
+
+ new Debian package, version 2.0.
+ size 3661550 bytes: control archive=438 bytes.
+     259 bytes,    11 lines      control              
+     115 bytes,     2 lines      md5sums              
+ Package: mufiz
+ Version: 0.6.0
+ License: unknown
+ Vendor: none
+ Architecture: mips64
+ Maintainer: Mustafif0929@gmail.com
+ Installed-Size: 69244
+ Section: default
+ Priority: optional
+ Homepage: http://example.com/no-uri-given
+ Description: The Mufi Programming Language
+
+ new Debian package, version 2.0.
+ size 4212152 bytes: control archive=439 bytes.
+     257 bytes,    11 lines      control              
+     115 bytes,     2 lines      md5sums              
+ Package: mufiz
+ Version: 0.6.0
+ License: unknown
+ Vendor: none
+ Architecture: mips
+ Maintainer: Mustafif0929@gmail.com
+ Installed-Size: 68694
+ Section: default
+ Priority: optional
+ Homepage: http://example.com/no-uri-given
+ Description: The Mufi Programming Language
+
+ new Debian package, version 2.0.
+ size 4058120 bytes: control archive=440 bytes.
+     259 bytes,    11 lines      control              
+     115 bytes,     2 lines      md5sums              
+ Package: mufiz
+ Version: 0.6.0
+ License: unknown
+ Vendor: none
+ Architecture: mipsel
+ Maintainer: Mustafif0929@gmail.com
+ Installed-Size: 68653
+ Section: default
+ Priority: optional
+ Homepage: http://example.com/no-uri-given
+ Description: The Mufi Programming Language
+
