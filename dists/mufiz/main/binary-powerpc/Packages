@@ -1,0 +1,17 @@
+Package: mufiz
+Version: 0.6.0
+License: unknown
+Vendor: none
+Architecture: powerpc
+Maintainer: Mustafif0929@gmail.com
+Installed-Size: 59543
+Homepage: http://example.com/no-uri-given
+Priority: optional
+Section: default
+Filename: pool/main/m/mufiz/mufiz_0.6.0_powerpc.deb
+Size: 3729590
+SHA256: 22cc1d39ac7b13f97a730e6e048519e68362a63890a619def427a9e83514434b
+SHA1: bd3a5dc47b867c62a56c97445db8ec3f8f8fd646
+MD5sum: 1f4e502c16ab8c3e01ae9924391b2d89
+Description: The Mufi Programming Language
+

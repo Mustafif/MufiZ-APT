@@ -1,0 +1,17 @@
+Package: mufiz
+Version: 0.6.0
+License: unknown
+Vendor: none
+Architecture: amd64
+Maintainer: Mustafif0929@gmail.com
+Installed-Size: 9398
+Homepage: http://example.com/no-uri-given
+Priority: optional
+Section: default
+Filename: pool/main/m/mufiz/mufiz_0.6.0_amd64.deb
+Size: 2397156
+SHA256: 2a50441fb0f0838480877971bf12116f1edba089155df20ffa67fbbbe41b8674
+SHA1: 9a3125eb6ce11cbda6523a6a14593c744cd2b15c
+MD5sum: 0e8ca8718e405ae904048dd375af3d01
+Description: The Mufi Programming Language
+

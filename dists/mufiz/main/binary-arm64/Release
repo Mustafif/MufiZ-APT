@@ -1,0 +1,7 @@
+Archive: stable
+Version: 0.6
+Component: main
+Origin: MufiZ
+Label: MufiZ
+Architecture: arm64
+Description: MufiZ Compiler

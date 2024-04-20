@@ -1,7 +1,0 @@
-Archive: stable
-Version: 0.6
-Component: main
-Origin: MufiZ
-Label: MufiZ
-Architecture: powerpc64le
-Description: MufiZ Compiler
