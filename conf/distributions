@@ -1,0 +1,8 @@
+Origin: MufiZ
+Label: MufiZ
+Suite: stable
+Version: 0.6
+Codename: mars
+Architectures: amd64 arm64 mipsel mips64el mips64 mips powerpc powerpc64 powerpc64le riscv64
+Components: main
+Description: MufiZ Compiler

@@ -1,0 +1,17 @@
+Package: mufiz
+Version: 0.6.0
+License: unknown
+Vendor: none
+Architecture: mips
+Maintainer: Mustafif0929@gmail.com
+Installed-Size: 68694
+Homepage: http://example.com/no-uri-given
+Priority: optional
+Section: default
+Filename: pool/main/m/mufiz/mufiz_0.6.0_mips.deb
+Size: 4212162
+SHA256: 98db0cfca33ef8b25c3ac580c83e4d7b74068b071f96d40388f22cc67c5938b4
+SHA1: 966a07c373de93986d1f307b4b397ca2121e5a6b
+MD5sum: a1809e9280f0f05f378584531eae4c42
+Description: The Mufi Programming Language
+
