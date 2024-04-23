@@ -5,4 +5,4 @@ Architectures: amd64 arm64 mipsel mips64el mips64 mips powerpc powerpc64 powerpc
 Components: main
 Description: Apt repo for MufiZ
 Suite: stable
-Version: 0.6.0
+Version: 0.6
