@@ -14,13 +14,14 @@ sudo apt install mufiz
 
 ## Supported Architectures
 
-- amd64
-- arm64
-- mipsel
-- mips64el
-- mips64
-- mips
-- powerpc
-- powerpc64
-- powerpc64le
-- riscv64
+- `amd64`
+- `i386`
+- `arm64`
+- `mipsel`
+- `mips64el`
+- `mips64`
+- `mips`
+- `powerpc`
+- `powerpc64`
+- `powerpc64le`
+- `riscv64`
