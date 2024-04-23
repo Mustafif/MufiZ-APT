@@ -4,14 +4,14 @@ License: unknown
 Vendor: none
 Architecture: powerpc
 Maintainer: Mustafif0929@gmail.com
-Installed-Size: 59543
+Installed-Size: 59579
 Homepage: http://example.com/no-uri-given
 Priority: optional
 Section: default
 Filename: pool/main/m/mufiz/mufiz_0.6.0_powerpc.deb
-Size: 3729590
-SHA256: 22cc1d39ac7b13f97a730e6e048519e68362a63890a619def427a9e83514434b
-SHA1: bd3a5dc47b867c62a56c97445db8ec3f8f8fd646
-MD5sum: 1f4e502c16ab8c3e01ae9924391b2d89
+Size: 3742376
+SHA256: 3b1bfbdfe4862d84be982fba59b1e43dadbd95cb8aca2cb6825879814939ec3a
+SHA1: 6a77d6e142b6bae4df8d70f0e08555b88f96afd0
+MD5sum: 55428158ffc3a06c4d3c6abc9487860c
 Description: The Mufi Programming Language
 

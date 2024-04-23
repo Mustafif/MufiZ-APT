@@ -4,14 +4,14 @@ License: unknown
 Vendor: none
 Architecture: riscv64
 Maintainer: Mustafif0929@gmail.com
-Installed-Size: 84092
+Installed-Size: 84201
 Homepage: http://example.com/no-uri-given
 Priority: optional
 Section: default
 Filename: pool/main/m/mufiz/mufiz_0.6.0_riscv64.deb
-Size: 3730364
-SHA256: e606197cecc4c4266f3c4a212b1c319a62c8d24f4747553222aad8843abd8f52
-SHA1: 3beec82cf8eb31bebdaf4ed1b4663d1b3318a297
-MD5sum: 5b75ba25190b498756266360bf57e053
+Size: 3752508
+SHA256: 6fc9270be59565b00fbd38ebec7b9cc825486d8698f37cb557976b91ff55d37a
+SHA1: 8ed5d7e593f9aaf1bdf9e07c7ae426d068c4638e
+MD5sum: 39fc639ac223dc2749aa74d4166ad019
 Description: The Mufi Programming Language
 

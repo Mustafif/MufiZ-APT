@@ -1,0 +1,17 @@
+Package: mufiz
+Version: 0.6.0
+License: unknown
+Vendor: none
+Architecture: i386
+Maintainer: Mustafif0929@gmail.com
+Installed-Size: 10364
+Homepage: http://example.com/no-uri-given
+Priority: optional
+Section: default
+Filename: pool/main/m/mufiz/mufiz_0.6.0_i386.deb
+Size: 3064640
+SHA256: beaa76359f424a034c42d8d6dba7ba5e216ac703711c8d8ee99d0412a4edc742
+SHA1: 1c1b7713e9a26ff76d073378b36f592496b2272e
+MD5sum: 930c3d9b003b3b70b9e09ee479c37f0d
+Description: The Mufi Programming Language
+

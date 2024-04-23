@@ -1,8 +1,3 @@
-Origin: MufiZ
-Label: MufiZ
-Suite: stable
-Version: 0.6
 Codename: mufiz
-Architectures: amd64 arm64 mipsel mips64el mips64 mips powerpc powerpc64 powerpc64le riscv64
+Architectures: amd64 arm64 mipsel mips64el mips64 mips powerpc powerpc64 powerpc64le riscv64 i386
 Components: main
-Description: MufiZ Compiler

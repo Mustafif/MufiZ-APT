@@ -4,14 +4,14 @@ License: unknown
 Vendor: none
 Architecture: mipsel
 Maintainer: Mustafif0929@gmail.com
-Installed-Size: 68653
+Installed-Size: 68699
 Homepage: http://example.com/no-uri-given
 Priority: optional
 Section: default
 Filename: pool/main/m/mufiz/mufiz_0.6.0_mipsel.deb
-Size: 4057844
-SHA256: e58685e82819757b76c8ef224db87ffbc804a751aa7462fc181b2c64d72ed9c5
-SHA1: 728aa614b6785f6333cb5a6ca1dfbf6d6feb6bc1
-MD5sum: 4a0a773b9900a2296f014c981c12a9cc
+Size: 4072306
+SHA256: 2d0ff56f423e04c167131d7ccc09209a4227833a02d0516482699662b4916c25
+SHA1: 36742455b76fec4547d93fbf08ad7b2a3e561a3c
+MD5sum: 323bf95041167892057b41c997c40fa0
 Description: The Mufi Programming Language
 

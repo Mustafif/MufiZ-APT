@@ -4,14 +4,14 @@ License: unknown
 Vendor: none
 Architecture: mips64
 Maintainer: Mustafif0929@gmail.com
-Installed-Size: 69245
+Installed-Size: 69302
 Homepage: http://example.com/no-uri-given
 Priority: optional
 Section: default
 Filename: pool/main/m/mufiz/mufiz_0.6.0_mips64.deb
-Size: 3663110
-SHA256: 87cb97bb3577318f366778545af52c523369896d1e7b39e47e6ccf5a6f9c54b1
-SHA1: e15683081e41eb825747f9b120d756e52406bdfa
-MD5sum: da24238c87716e1d71bf3ff512861191
+Size: 3676422
+SHA256: 083338d5dcca082402207c6ef12b112c047f4a3a3993390c2d0e4aafc41011f8
+SHA1: 68ebc66d191d9b91a8f5e01bc280fab04dd4793f
+MD5sum: baaabacc9dde7f05299a99aa3034e3aa
 Description: The Mufi Programming Language
 
