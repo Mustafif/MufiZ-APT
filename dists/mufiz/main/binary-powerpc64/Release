@@ -1,5 +1,7 @@
+Archive: stable
+Version: 0.6.0
 Component: main
-Origin: mufiz
-Label: mufiz
+Origin: MufiZ
+Label: MufiZ
 Architecture: powerpc64
 Description: Apt repo for MufiZ
