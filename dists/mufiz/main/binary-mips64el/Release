@@ -1,2 +1,5 @@
 Component: main
+Origin: mufiz
+Label: mufiz
 Architecture: mips64el
+Description: Apt repo for MufiZ

@@ -1,3 +1,6 @@
+Origin: mufiz
+Label: mufiz
 Codename: mufiz
 Architectures: amd64 arm64 mipsel mips64el mips64 mips powerpc powerpc64 powerpc64le riscv64 i386
 Components: main
+Description: Apt repo for MufiZ

@@ -1,2 +1,5 @@
 Component: main
+Origin: mufiz
+Label: mufiz
 Architecture: riscv64
+Description: Apt repo for MufiZ
